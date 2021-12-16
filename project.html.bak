@@ -10,19 +10,31 @@
 			p {text-align: center;}
 			div {text-align: center;}
 			h5 {text-align: center;}
-</style>
-
-
-<body>
-<h1>Do you find yourself distracted?</h1>
-<h2>Take back control for when it matters!</h1>
-<br>
+			
+			body {
+				background-image: url('ProjectBG.jpg');
+				background-repeat: no-repeat;
+				background-attachment: fixed;
+				background-size: cover;
+				}
+		</style>
+	</head>
+				
+ <div style="background-color:yellow;color:red;padding:5px; border: 1px solid lightgray;margin: 5px;">
 	<body>
+		<h1>Do you find yourself distracted?</h1>
+		<h2>Take back control for when it matters!</h1>
+		<br>
+	<body>
+</div> 
+
 		<center><img src="ScreenTimeImg.png"></center>
 	</body>
 	<body>
 <p>
+ <div style="background-color:ghostwhite;color:black;padding:5px; border: 1px solid lightgray;margin: 5px;">
 		<center>
+			<h3>
 When asked to develop a project in relation to IT many ideas spring to mind of varying scales, perhaps software to monitor moisture levels of soil to optimise the growing of vegetables or something fun like making a cool video game, or perhaps the best IT project is a challenge to this and in fact, an anti-IT project using in IT in a feasible way.
 There are many moments in life when interacting with IT, or to be specific, using a phone is not ideal, rude or even dangerous. Crossing the road or watching a movie in theatres are both examples of when it is inappropriate to be allured by the screen.
 Another more direct example considering the news of recent and the summer season is watching children around the water, having a phone as a distraction.
@@ -47,10 +59,16 @@ For the app to be effective in its goal it has to only work based on the assumpt
 The project I think has merit because it's an app which while not entirely original could be spun more as a child-protector than an anti-social media app and could display information relevant to that within the app itself.
 It presents a real challenge to those who have never made an app before to work towards a goal and in the process of learning how an app like this is made, could easily spring-board onto more advanced features or apps later on. If the app does work out then it could be actually developed into something that could be published on an app store which itself would be intensely satisfying.
 </p>
+			</h3>
 		</center>
+</div>
 	</body>
 	
+	
 	<body>
-		<center>
-			<a href="index.html"><h1>BACK TO HOMEPAGE!</h1></a>
+	<div style="background-color:yellow;color:red;padding:5px; border: 1px solid lightgray;margin: 5px;">
+			<a href="index.html"><font color="red"><h1>BACK TO HOMEPAGE!</h1></font></a>
+	</div>
 	</body>
+	
+</html>
