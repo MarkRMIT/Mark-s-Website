@@ -9,30 +9,59 @@
 			p {text-align: center;}
 			div {text-align: center;}
 			h5 {text-align: center;}
-			
-			body {
-				background-image: url('MarkBackground25pc.png');
-				background-repeat: no-repeat;
-				background-attachment: fixed;
-				background-size: cover;
-				}
 </style>
 
-<body>
+<header style="color: black; background-color:white">
+	<b>Mark Davenport - S3935785</b>
+		<br>
+	<b>S3935785@student.rmit.edu</b>
+		<br>
+	<b>Australian, speaks English (UK)</b> right-side><img src=MarkPicture.png  width="250" height="250"></right-side>
+		<br>
+	<b>Bachelor of Film in 2017</b>
+		<br>
+	<b>Likes the environment, swimming & video games.</b>
+</header>
+
+<body style="background-color:lightblue">
 	<center>
-This is a different webpage than the one before, if you're here that hopefully means that the linking worked!
-		<br><br>
-I remember I used to make little websites as a kid using Microsoft Publisher, this is bringing back memories of that.
-		<br><br>
-Only that I didn't have to type <i>br</i> to create line breaks!
-		<br><br>
-So anyway, I’m Mark! I like computers.
-		<br><br>
-		This background really makes things hard to read, doesn't it?
-		<br><br>
-I don’t yet know how to make images clickable, so no Rainbow Dash memes, instead <a href="project.html"><b>click here</b></a> for the project page.
-Or of course you can go back to <a href="index.html"><b>the homepage.</b>
-	</center>
-		<br><br>	<br><br>	<br><br>	<br><br>	<br><br>	<br><br>	<br><br>	<br><br>	<br><br>	<br><br>	<br><br>	<br><br>	<br><br>	<br><br>	<br><br>	<br><br>	<br><br>
-		<a href="secret.html">Don't click this, no way return!</a>
+			<h3>
+		<p style="color: white; background-color:black">
+			My interest in IT has been around for as long as I’ve used computers from a young age. I believe it was in primary school from prep that I first really started to use IT which began by playing some educational games, over time progressed to learning the likes of Microsoft Office and then onto using the internet itself. Back in the early 2000s schools weren’t as strict on IT usage as now which allowed me ample opportunity to learn by using without the kind of brutal restriction some have to wade through today just to open up a word processer.
+			As a child I used to make mock-up websites using Microsoft Publisher, so HTML reminds me of that fondly.
+		</p>
+		<p style="color: white; background-color:black">
+			Part of my strong fascination with computers came from the fact that early on my family did not have a family computer, so I only had the chance to use them either at school or at my grandfather’s house. The internet likewise was watching my friends at their house use it or playing video games, something which I also didn’t have as early as some others.
+		</p>
+		<p style="color: white; background-color:black">
+			This pent-up deep desire to have a computer of our own to use made it that finally during mid-Primary School when my parents did buy a Family PC with Windows XP made my enthusiasm and desire grow for it, I adored that machine. 
+		</p>
+		<p style="color: white; background-color:black">
+			For a while yet we didn’t have internet until I was eleven and despite being 2007 we were given Dial-Up, we would not have ADSL until I began high school.
+		</p>
+		<p style="background-color:lightgrey">
+			In retrospect, I should have studied an IT course as soon as I left high school in 2013, but instead, I pursued originally a Bachler in Games but switched to a Bachelor in Film at SAE Melbourne. Now after a couple of years where I’m sick of spending time in retail and have a friend who works in IT, with his encouragement I’ve decided to test the waters in something I love, IT and see if I can educate myself beyond the surface level into something where I can be productive in aiding others with IT or even creating something within this ever-changing vital landscape.
+		</p>
+		<p style="background-color:lightgrey">
+			I’m not entirely sure what to expect from my studies, but I’m looking forwards to finding out as I’m sure I’m going to be challenged with some fundamentals which I just took for granted previously.
+		</p>
+		
+		</h3>
+		
 </body>
+
+<body>
+
+<h1><a href="project.html">Proceed to Project</a> or <a href="index.html"><b>Return to Home</b></h1>		
+		
+<~~?I don’t yet know how to make images clickable, so no Rainbow Dash memes, instead <a href="project.html"><b>click here</b></a> for the project page.
+Or of course you can go back to <a href="index.html"><b>the homepage.</b~~>
+	</center>
+	
+
+</body>
+
+<footer>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<center><a href="secret.html">Don't click this!</a></center>
+</footer>
