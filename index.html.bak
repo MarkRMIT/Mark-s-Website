@@ -20,10 +20,12 @@
 </style>
 	</head>
 	
+	<header>
+		<center><img src="Hompage.gif"></center>
+	</header>	
 	<body>
-		<br><br><br>
-			<font color="white">  <center><i>YouTube tutorials proudly presents...</i></center></font>  
 		<br>
+			<font color="white">  <center><i>YouTube tutorials proudly presents...</i></center></font>  
 			<font color="cyan"><h1>Mark's HTML Website</h1></font>
 			<font color="white"><h5>G'Day and welcome to my <b>GitHub WebZone!</b></h5>
 		<p>
@@ -33,7 +35,7 @@
 			Or you might wish to learn about <a href="project.html"><b>my project!</b></a></font>
 		</p>
 		<br><br>
-		<font color="pink"><center><img src="MarkWave.gif" border="10"></center></font>
+		<font color="pink"><center><img src=MarkWaveShorter.gif width="300" height="250 border="10"></center></font>
 		
 	</body>
 	
@@ -48,4 +50,7 @@
 
 
 <center><img src="hamster_dance.gif"><img src="hamster_dance.gif"><img src="hamster_dance.gif"><img src="hamster_dance.gif"><img src="hamster_dance.gif"><img src="hamster_dance.gif"><img src="hamster_dance.gif"><img src="hamster_dance.gif"></center>
+<center><audio controls autoplay>
+		<source src="OlFaithful.mp3" type="audio/mpeg"></center>
+	</audio>
 </html>
