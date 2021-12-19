@@ -62,7 +62,7 @@ For the app to be effective in its goal it has to only work based on the assumpt
 			</h3>
 </div>
 
-			<span style="border: 5px solid yellow; background-color: yellow><font color="red"><a href="index.html"><h1>BACK TO HOMEPAGE!</h1></font></a></span>
+			<div style="background-color:yellow;color:red;padding:5px; border: 1px solid lightgray;margin: 5px;"><a href="index.html"><h1>BACK TO HOMEPAGE!</h1></font></a></div>
 	
 	</body>
 	
